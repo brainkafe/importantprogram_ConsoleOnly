@@ -10,6 +10,7 @@ namespace polindrome_ex1
     {
         static void Main(string[] args)
         {
+            // i want to make changes.
             string s, revs = "";
             Console.WriteLine("Enter a string value.");
             s = Console.ReadLine();
